@@ -16,3 +16,6 @@ Download and embed english (`-l en`) subtitles for the input file (`-i The.Offic
 - `-o` | `--output`: the path to the output file.
 - `-l` | `--lang`: the language for the subtitles to be downloaded ([ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) format)
 - `-s` | `--subtitles`: if you want to provide your own subtitles file, you can pass it with this option.
+
+## Requirements
+This script requires [mencoder](https://en.wikipedia.org/wiki/MEncoder).
